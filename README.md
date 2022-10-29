@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/huiitre](https://github.com/huiitre)
 
-- 💬 Ask me about **PHP, JavaScript, Symfony, React**
+- 💬 Ask me about **PHP, JavaScript, Symfony, Laravel, Oracle PL/SQL, React, Vue**
 
 - 📫 How to reach me **yanis.deluca@laposte.net**
 

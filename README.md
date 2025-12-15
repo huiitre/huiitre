@@ -1,19 +1,4 @@
-<h1 align="center">Hello 👋, Je suis Yanis De Luca</h1>
-<h3 align="center">Un développeur passionné de Lyon, France</h3>
-
-- 🔭 I’m currently working on [A Pet 4 Life](https://github.com/huiitre/APet4Life-back)
-
-- 🌱 I’m currently learning **Symfony 🧐**
-
-- 👨‍💻 All of my projects are available at [https://github.com/huiitre](https://github.com/huiitre)
-
-- 💬 Ask me about **PHP, JavaScript, Java, Symfony, Laravel, Oracle PL/SQL, React, Vue**
-
-- 📫 How to reach me **yanis.deluca@laposte.net**
-
-- 📄 Know about my experiences **Formation Développeur Web & Web Mobile - O'Clock**
-
-- ⚡ Fun fact **📚🏸👨‍💻🎬**
+**📚🏸👨‍💻🎬**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
